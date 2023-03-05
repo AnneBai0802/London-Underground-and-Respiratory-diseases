@@ -1,0 +1,283 @@
+,site,code,latitude,longitude,site_type,source
+144,Barking and Dagenham - Rush Green,BG1,51.563752,0.177891,Suburban,kcl
+460,Barking and Dagenham - Scrattons Farm,BG2,51.529389,0.132857,Suburban,kcl
+167,Barking and Dagenham - North Street,BG3,51.540444,0.074418,Kerbside,kcl
+719,Barnet - Tally Ho Corner,BN1,51.614675,-0.176607,Kerbside,kcl
+720,Barnet - Finchley,BN2,51.591901,-0.205992,Urban Background,kcl
+721,Barnet - Strawberry Vale ,BN3,51.60088485,-0.172297542,Urban Background,kcl
+105,Bexley 8 - Traffic(W slow - nearest BX8),BQ1,51.45685466,0.194546363,Kerbside,kcl
+562,Bexley 8 - Traffic(W fast),BQ2,51.45685466,0.194546363,Kerbside,kcl
+563,Bexley 8 - Traffic(E fast),BQ3,51.45685466,0.194546363,Kerbside,kcl
+564,Bexley 8 - Traffic(E slow - nearest BX7),BQ4,51.45685466,0.194546363,Kerbside,kcl
+1001,Bexley - Manor Road West Gravimetric,BQ5,51.47819351,0.187404884,Industrial,kcl
+1000,Bexley - Manor Road East Gravimetric,BQ6,51.4776708,0.190836226,Industrial,kcl
+713,Bexley - Belvedere West,BQ7,51.49464868,0.137279111,Urban Background,kcl
+361,Bexley - Belvedere West FDMS,BQ8,51.49464868,0.137279111,Urban Background,kcl
+29,Bexley - Slade Green Fidas,BQ9,51.46598327,0.184877127,Suburban,kcl
+573,Brent 4 - aethalometer,BT0,51.55244463,-0.258117056,Roadside,kcl
+722,Brent - Kingsbury,BT1,51.589618,-0.275519,Suburban,kcl
+723,Brent - Ikea Car Park,BT2,51.55243263,-0.260338844,Roadside,kcl
+724,Brent - Harlesden,BT3,51.53708003,-0.249273425,Roadside,kcl
+182,Brent - Ikea,BT4,51.552476,-0.258089,Roadside,kcl
+218,Brent - Neasden Lane,BT5,51.552656,-0.248774,Industrial,kcl
+779,Brent - John Keble Primary School,BT6,51.537799,-0.247793,Roadside,kcl
+321,Brent - St Marys Primary School,BT7,51.534718,-0.196664,Urban Background,kcl
+972,Brent - ARK Franklin Primary Academy,BT8,51.53240546,-0.217718909,Roadside,kcl
+299,Bexley - Belvedere FDMS,BX0,51.49061021,0.158914494,Suburban,kcl
+726,Bexley - Slade Green,BX1,51.46598327,0.184877127,Suburban,kcl
+727,Bexley - Belvedere,BX2,51.49061021,0.158914494,Suburban,kcl
+728,Bexley - Thamesmead,BX3,51.510808,0.121617,Suburban,kcl
+729,Bexley - Erith,BX4,51.4776708,0.190836226,Industrial,kcl
+730,Bexley - Bedonwell ,BX5,51.47880235,0.133873839,Suburban,kcl
+222,Bexley - Thames Road North FDMS,BX6,51.457159,0.195294,Roadside,kcl
+668,Bexley - Thames Road North,BX7,51.457159,0.195294,Roadside,kcl
+669,Bexley - Thames Road South,BX8,51.456887,0.194582,Roadside,kcl
+345,Bexley - Slade Green FDMS,BX9,51.46598327,0.184877127,Suburban,kcl
+789,Bromley - Rent Office,BY1,51.41323389,0.007214716,Urban Background,kcl
+790,Bromley - Tweedy Rd,BY4,51.40383481,0.020390229,Roadside,kcl
+731,Bromley - Biggin Hill,BY5,51.314562,0.042019,Suburban,kcl
+575,Bromley TR Calibrate,BY6,51.40383481,0.020390229,Roadside,kcl
+732,Bromley - Harwood Avenue,BY7,51.405546,0.018882,Roadside,kcl
+309,Bromley 8 - TECO NOX,BY8,51.4062281,0.017188632,Roadside,kcl
+734,Camden - Swiss Cottage,CD1,51.544219,-0.175284,Kerbside,kcl
+577,Camden API,CD2,51.54419013,-0.175320118,Kerbside,kcl
+735,Camden - Shaftesbury Avenue,CD3,51.515532,-0.127027,Roadside,kcl
+99,Camden - St Martins College (NOX 1),CD4,51.518846,-0.12034,Urban Background,kcl
+100,Camden - St Martins College (NOX 2),CD5,51.518846,-0.12034,Urban Background,kcl
+849,Camden - Swiss Cottage Partisol,CD7,51.54480551,-0.174992639,Kerbside,kcl
+880,Camden - Euston Road,CD9,51.527975,-0.1287742,Roadside,kcl
+717,Croydon - Purley Way,CR2,51.362638,-0.117952,Roadside,kcl
+744,Croydon - Thornton Heath,CR3,51.40401,-0.098814,Suburban,kcl
+745,Croydon - George Street,CR4,51.374312,-0.096503,Roadside,kcl
+248,Croydon - Norbury,CR5,51.411349,-0.12311,Kerbside,kcl
+249,Croydon - Euston Road,CR6,51.3786979,-0.113796403,Suburban,kcl
+381,Croydon - Purley Way A23,CR7,51.36223057,-0.117604507,Roadside,kcl
+969,Croydon - Norbury Manor,CR8,51.410039,-0.127523,Urban Background,kcl
+993,Croydon - Park Lane,CR9,51.37395306,-0.096763847,Roadside,kcl
+746,City of London - Senator House,CT1,51.511491,-0.095807,Urban Background,kcl
+446,City of London - Farringdon Street,CT2,51.51452534,-0.104515626,Kerbside,kcl
+845,City of London - The Aldgate School,CT3,51.51384718,-0.077765682,Urban Background,kcl
+447,City of London - Beech Street,CT4,51.52022527,-0.096106047,Roadside,kcl
+297,City of London Black Smoke (CITY 16),CT5,51.5159887,-0.093270399,Urban Background,kcl
+98,City of London - Walbrook Wharf,CT6,51.510499,-0.091634,Roadside,kcl
+841,City of London 7 - NOx paint study site,CT7,51.51369348,-0.077166835,Urban Background,kcl
+117,City of London - Upper Thames Street,CT8,51.50954369,-0.087357198,Roadside,kcl
+59,City of London - Guildhall,CT9,51.515907,-0.092023986,Urban Background,kcl
+695,Ealing - Acton Town Hall FDMS,EA0,51.506628,-0.267934,Roadside,kcl
+748,Ealing - Ealing Town Hall,EA1,51.51332305,-0.307529015,Urban Background,kcl
+749,Ealing - Acton Town Hall,EA2,51.506628,-0.267934,Roadside,kcl
+580,Ealing 3 - A40 East Acton,EA3,49.76678667,-7.557159397,Roadside,kcl
+310,Ealing Mobile - Hamilton Road,EA4,51.5107813,-0.374504267,Roadside,kcl
+311,Ealing Mobile - Southall,EA5,51.51074135,-0.371623519,Roadside,kcl
+278,Ealing - Hanger Lane Gyratory,EA6,51.53085,-0.292488,Roadside,kcl
+676,Ealing - Southall,EA7,51.508549,-0.392179,Urban Background,kcl
+687,Ealing - Horn Lane,EA8,51.518948,-0.265617,Industrial,kcl
+694,Ealing - Court Way,EA9,51.52256512,-0.264922415,Roadside,kcl
+325,Ealing - Greenford,EI0,51.54392963,-0.352801776,Urban Background,kcl
+448,Ealing - Western Avenue,EI1,51.52360782,-0.265502632,Roadside,kcl
+608,Ealing - Southall Railway,EI2,51.50586998,-0.380241032,Roadside,kcl
+1038,Ealing - Acton Vale ,EI3,51.50385279,-0.254668102,Urban Background,kcl
+499,Ealing - Southall FDMS,EI7,51.50851648,-0.392208459,Urban Background,kcl
+651,Ealing - Horn Lane TEOM,EI8,51.51891603,-0.265652052,Industrial,kcl
+254,Enfield - Bush Hill Park,EN1,51.64503673,-0.066180066,Suburban,kcl
+255,Enfield - Church Street,EN2,51.6524365,-0.084224624,Roadside,kcl
+256,Enfield - Salisbury School,EN3,51.63747949,-0.044246141,Urban Background,kcl
+257,Enfield - Derby Road,EN4,51.61486401,-0.050765836,Roadside,kcl
+223,Enfield - Bowes Primary School,EN5,51.613865,-0.125338,Roadside,kcl
+295,Enfield Black Smoke (ENFIELD 14),EN6,51.64506051,-0.067624451,Urban Background,kcl
+884,Enfield - Prince of Wales School,EN7,51.66864335,-0.022007206,Urban Background,kcl
+827,Greenwich - A206 Burrage Grove,GN0,51.490532,0.074003,Roadside,kcl
+828,Greenwich - Millennium Village,GN2,51.492571,0.017697,Industrial,kcl
+810,Greenwich - Plumstead High Street,GN3,51.486957,0.095111,Roadside,kcl
+812,Greenwich - Fiveways Sidcup Rd A20,GN4,51.43466271,0.064222467,Roadside,kcl
+997,Greenwich - Trafalgar Road (Hoskins St),GN5,51.48390725,0.000407397,Roadside,kcl
+550,Greenwich - John Harrison Way,GN6,51.49377467,0.010779624,Roadside,kcl
+296,Greenwich Black Smoke (GREENWICH 9),GR2,51.47775825,-0.011339341,Urban Background,kcl
+834,Woolwich Aethalometer,GR3,51.47269322,0.073397876,Urban Background,kcl
+104,Greenwich - Eltham,GR4,51.45258,0.070766,Suburban,kcl
+265,Greenwich - Trafalgar Road,GR5,51.48344907,-0.000145563,Roadside,kcl
+266,Greenwich - Blackheath,GR7,51.472504,-0.012381,Roadside,kcl
+337,Greenwich - Woolwich Flyover,GR8,51.486884,0.017901,Roadside,kcl
+682,Greenwich - Westhorne Avenue,GR9,51.456357,0.040725,Roadside,kcl
+267,Hammersmith and Fulham - Broadway,HF1,51.49276634,-0.223601338,Roadside,kcl
+149,Hammersmith and Fulham - Brook Green,HF2,51.49649618,-0.220502981,Urban Background,kcl
+693,Hammersmith and Fulham - Scrubs Lane,HF3,51.53088951,-0.237011005,Kerbside,kcl
+871,Hammersmith and Fulham - Shepherds Bush,HF4,51.50456257,-0.224670007,Roadside,kcl
+484,Hammersmith and Fulham - Talgarth Road A,HFX,51.504366,-0.08257,Roadside,kcl
+989,Hammersmith and Fulham - Talgarth Road B,HFY,51.504366,-0.08257,Roadside,kcl
+268,Haringey - Haringey Town Hall,HG1,51.599302,-0.068218,Roadside,kcl
+269,Haringey - Priory Park,HG2,51.586029,-0.126486,Urban Background,kcl
+791,Haringey - Bounds Green,HG3,51.60594995,-0.12344112,Roadside,kcl
+235,Haringey  - Priory Park South,HG4,51.5839769,-0.125400278,Urban Background,kcl
+673,Hillingdon - Keats Way,HI0,51.496309,-0.460826,Suburban,kcl
+270,Hillingdon - South Ruislip,HI1,51.552264,-0.402779,Roadside,kcl
+271,Hillingdon - Hillingdon Hospital,HI2,51.526115,-0.459128,Roadside,kcl
+783,Hillingdon - Oxford Avenue,HI3,51.48113184,-0.423760324,Roadside,kcl
+272,Hackney - Clapton,HK4,51.558884,-0.056388,Urban Background,kcl
+273,Hackney - Old Street,HK6,51.526454,-0.08491,Roadside,kcl
+54,Hackney - Queensbridge Road,HK9,51.539324,-0.070078971,Roadside,kcl
+56,Hackney - Amhurst Road,HN0,51.55005599,-0.063301603,Roadside,kcl
+55,Hackney - Homerton Library,HN1,51.54874721,-0.041880697,Roadside,kcl
+276,Harrow - Stanmore,HR1,51.617327,-0.298775,Urban Background,kcl
+277,Harrow - Pinner Road,HR2,51.588417,-0.362989,Roadside,kcl
+166,Hounslow - Brentford,HS1,51.489321,-0.310002,Roadside,kcl
+150,Hounslow - Cranford,HS2,51.482982,-0.411895,Suburban,kcl
+279,Hounslow - Brentford,HS3,51.489321,-0.310002,Roadside,kcl
+622,Hounslow - Chiswick High Road,HS4,51.492507,-0.257252,Roadside,kcl
+180,Hounslow - Brentford,HS5,51.489398,-0.310081,Roadside,kcl
+340,Hounslow - Heston Road,HS6,51.479129,-0.36476,Roadside,kcl
+870,Hounslow - Hatton Cross,HS7,51.463402,-0.427525,Urban Background,kcl
+380,Hounslow and Ealing - Gunnersbury Avenue,HS8,51.5006763,-0.284383168,Roadside,kcl
+757,Hounslow - Feltham,HS9,51.44738777,-0.408732837,Roadside,kcl
+152,Havering - Rainham,HV1,51.52078746,0.205460706,Roadside,kcl
+801,Havering - Harold Hill,HV2,51.60659922,0.225359558,Suburban,kcl
+153,Havering - Romford,HV3,51.572976,0.179079,Roadside,kcl
+751,Islington - Upper Street,IS1,51.54070034,-0.103269578,Urban Background,kcl
+752,Islington - Holloway Road,IS2,51.555378,-0.116146,Roadside,kcl
+292,Islington Black Smoke (ISLINGTON 9),IS3,51.54133754,-0.103747818,Urban Background,kcl
+353,Islington - Foxham Gardens,IS4,51.56004034,-0.131679425,Urban Background,kcl
+354,Islington - Duncan Terrace,IS5,51.53226589,-0.104413187,Roadside,kcl
+846,Islington - Arsenal,IS6,51.557895,-0.106989,Urban Background,kcl
+784,North Kensington - Carbon,KC0,51.52104675,-0.21349214,Urban Background,kcl
+753,Kensington and Chelsea - North Ken,KC1,51.52104675,-0.21349214,Urban Background,kcl
+754,Kensington and Chelsea - Cromwell Road,KC2,51.49550391,-0.178809464,Roadside,kcl
+755,Kensington and Chelsea - Knightsbridge,KC3,51.49913951,-0.164337605,Roadside,kcl
+756,Kensington and Chelsea - Kings Road,KC4,51.48743685,-0.168397129,Roadside,kcl
+762,Kensington and Chelsea - Earls Court Rd,KC5,51.49019756,-0.190863311,Kerbside,kcl
+427,Kens and Chelsea 6 - N Ken Par PM10,KC6,51.52104675,-0.21349214,Urban Background,kcl
+696,North Kensington - Partisol SO4,KC9,51.52094,-0.213568389,Urban Background,kcl
+763,Kingston - Chessington,KT1,51.35664669,-0.316770842,Suburban,kcl
+792,Kingston - Town Centre,KT2,51.41443076,-0.301706822,Roadside,kcl
+970,Kingston Upon Thames - Sopwith Way,KT3,51.413691,-0.302269,Roadside,kcl
+971,Kingston Upon Thames - Tolworth Broadway,KT4,51.379312,-0.281259,Roadside,kcl
+531,Kingston Upon Thames - Cromwell Road,KT5,51.412308,-0.29658478,Roadside,kcl
+532,Kingston Upon Thames - Kingston Vale,KT6,51.43550066,-0.257029894,Roadside,kcl
+103,Lambeth 5 - Test,LB0,51.48368689,-0.125584065,Roadside,kcl
+764,Lambeth - Christchurch Road,LB1,51.444249,-0.121731,Roadside,kcl
+765,Lambeth - Vauxhall Cross,LB2,51.48491231,-0.125173737,Roadside,kcl
+766,Lambeth - Loughborough Junct,LB3,51.464866,-0.099161,Urban Background,kcl
+210,Lambeth - Brixton Road,LB4,51.46411354,-0.114581027,Kerbside,kcl
+300,Lambeth - Bondway Interchange,LB5,51.48548677,-0.124545235,Industrial,kcl
+940,Lambeth - Streatham Green,LB6,51.42821314,-0.131868639,Urban Background,kcl
+770,Lewisham - Catford,LW1,51.445468,-0.020266,Urban Background,kcl
+771,Lewisham - New Cross,LW2,51.474954,-0.039641,Roadside,kcl
+887,Lewisham - Mercury Way,LW3,51.48114122,-0.045670857,Industrial,kcl
+467,Lewisham - Loampit Vale,LW4,51.46469106,-0.016068243,Roadside,kcl
+60,Lewisham - Deptford,LW5,51.47953128,-0.025260603,Urban Background,kcl
+58,Lewisham - Laurence House Catford,LW6,51.4447808,-0.0221832,Roadside,kcl
+740,Merton - Morden Civic Centre,ME1,51.40105,-0.195929,Roadside,kcl
+874,Merton - Merton Road,ME2,51.41613848,-0.192230805,Roadside,kcl
+648,Merton - Haydon Court,ME3,51.38407222,-0.22347315,Industrial,kcl
+926,Merton - Salcombe Drive,ME4,49.76678667,-7.557159397,Industrial,kcl
+908,Merton - Esampler1,ME5,NA,NA,Industrial,kcl
+509,Merton - Esampler2,ME6,NA,NA,Industrial,kcl
+980,Merton - Willow Lane Industrial Estate,ME7,51.39434156,-0.165161045,Industrial,kcl
+981,Merton - Willow Lane Industrial Estate,ME8,51.39431543,-0.165161456,Industrial,kcl
+995,Merton - Morden Civic Centre 2,ME9,51.40162,-0.19589212,Roadside,kcl
+739,Newham - Tant Avenue,NM1,51.514764,0.011989,Urban Background,kcl
+465,Newham - Cam Road,NM2,51.537598,-0.002138,Roadside,kcl
+939,Newham - Wren Close,NM3,51.514727,0.014554,Urban Background,kcl
+38,Newham - East Ham Town Hall,NM4,51.5330166,0.055000206,Roadside,kcl
+231,Redbridge - Perth Terrace,RB1,51.569221,0.081821,Urban Background,kcl
+232,Redbridge - Ilford Broadway,RB2,51.55834619,0.06999151,Kerbside,kcl
+240,Redbridge - Fullwell Cross,RB3,51.593935,0.085516,Kerbside,kcl
+241,Redbridge - Gardner Close,RB4,51.57661,0.030858,Roadside,kcl
+667,Redbridge - South Woodford,RB5,51.595851,0.020087,Roadside,kcl
+294,Ilford Black Smoke (ILFORD 6),RB6,51.55808104,0.075836684,Urban Background,kcl
+961,Redbridge - Ley Street,RB7,51.56948433,0.082907475,Urban Background,kcl
+366,Richmond Upon Thames - Lower Mortlake Rd,RHA,51.46567517,-0.294665385,Roadside,kcl
+368,Richmond - Lower Mortlake Road,RHB,51.46567517,-0.294665385,Roadside,kcl
+522,Richmond Upon Thames - Craneford Way,RHC,51.44905133,-0.342532104,Industrial,kcl
+935,Richmond Upon Thames - Craneford Way,RHD,51.44905133,-0.342532104,Industrial,kcl
+936,Richmond Upon Thames - Hanworth Road,RHE,51.446763,-0.383441394,Kerbside,kcl
+1021,Richmond Upon Thames - Hanworth Road,RHF,51.446763,-0.383441394,Kerbside,kcl
+262,Richmond Upon Thames - Chertsey Road,RHG,51.45314225,-0.341218138,Roadside,kcl
+927,Richmond Upon Thames - Chertsey Road,RHH,51.45314225,-0.341218138,Roadside,kcl
+664,Richmond Mobile - dial up only,RI0,NA,NA,Urban Background,kcl
+243,Richmond Upon Thames - Castelnau,RI1,51.480189,-0.237335,Roadside,kcl
+244,Richmond Upon Thames - Barnes Wetlands,RI2,51.476168,-0.230427,Suburban,kcl
+590,Richmond 3 - Mobile 1,RI3,NA,NA,Roadside,kcl
+591,Richmond 4 - Mobile 2,RI4,NA,NA,Roadside,kcl
+412,Richmond Mobile - St Margarets,RI5,49.76678667,-7.557159397,Kerbside,kcl
+413,Richmond Mobile - St Margarets,RI6,49.76678667,-7.557159397,Kerbside,kcl
+312,Richmond Mobile - Richmond Park,RI7,51.44518292,-0.264734269,Suburban,kcl
+316,Richmond Mobile - Richmond Park,RI8,51.44518292,-0.264734269,Suburban,kcl
+592,Richmond Mobile - dial up only,RI9,NA,NA,Urban Background,kcl
+317,Richmond Mobile - George Street,RIA,51.46070041,-0.305071404,Kerbside,kcl
+318,Richmond Mobile - George Street,RIB,51.46070041,-0.305071404,Kerbside,kcl
+206,Richmond Mobile - Kew Rd,RIC,51.46403728,-0.301391905,Kerbside,kcl
+207,Richmond Mobile - Kew Rd,RID,51.46403728,-0.301391905,Kerbside,kcl
+203,Richmond Mobile - Richmond Rd Twickenham,RIE,51.4506816,-0.321230492,Roadside,kcl
+205,Richmond Mobile - Richmond Rd Twickenham,RIF,51.4506816,-0.321230492,Roadside,kcl
+212,Richmond Mobile - Upper Teddington Rd,RIG,51.41912165,-0.315195969,Roadside,kcl
+213,Richmond Mobile - Upper Teddington Rd,RIH,51.41912165,-0.315195969,Roadside,kcl
+215,Richmond Mobile - Somerset Rd Teddington,RII,51.42841737,-0.336431582,Urban Background,kcl
+216,Richmond Mobile - Somerset Rd Teddington,RIJ,51.42841737,-0.336431582,Urban Background,kcl
+670,Richmond Mobile - St. Margarets Grove,RIK,51.45410707,-0.322443394,Urban Background,kcl
+671,Richmond Mobile - St. Margarets Grove,RIL,51.45410707,-0.322443394,Urban Background,kcl
+787,Richmond Mobile - Petersham Rd Ham,RIM,51.43941231,-0.304233644,Roadside,kcl
+788,Richmond Mobile - Petersham Rd Ham,RIN,51.43941231,-0.304233644,Roadside,kcl
+702,Richmond Mobile - Stanley Rd Twickenham,RIO,51.43760834,-0.350485562,Roadside,kcl
+703,Richmond Mobile - Stanley Rd Twickenham,RIP,51.43760834,-0.350485562,Roadside,kcl
+288,Richmond Mobile - Richmond Rd Twickenham,RIQ,51.44848427,-0.324779388,Roadside,kcl
+289,Richmond Mobile - Richmond Rd Twickenham,RIR,51.44618778,-0.321395298,Roadside,kcl
+356,Richmond Mobile - Lincoln Ave Twickenham,RIS,51.44382244,-0.361413766,Roadside,kcl
+357,Richmond Mobile - Lincoln Ave Twickenham,RIT,51.44382244,-0.361413766,Roadside,kcl
+196,Richmond Mobile - Mortlake Rd Kew,RIU,51.47476129,-0.279538134,Roadside,kcl
+145,Richmond Mobile - Mortlake Rd Kew,RIV,51.47476129,-0.279538134,Roadside,kcl
+407,Richmond - Upper Teddington Road,RIW,51.417695,-0.315291,Roadside,kcl
+408,Richmond - Upper Teddington Road,RIX,51.41766668,-0.315321372,Roadside,kcl
+883,Richmond - Hampton Court Road,RIY,51.4061931,-0.341220895,Kerbside,kcl
+941,Richmond - Hampton Court Road,RIZ,51.4061931,-0.341220895,Kerbside,kcl
+106,Southwark - Larcom Street,SK1,51.490548,-0.09661,Urban Background,kcl
+280,Southwark - Old Kent Road,SK2,51.48194568,-0.062717624,Roadside,kcl
+815,Southwark 1 Grim,SK3,51.49051358,-0.096638285,Urban Background,kcl
+816,Southwark 2 Grim,SK4,51.48194568,-0.062717624,Roadside,kcl
+1007,Southwark - A2 Old Kent Road,SK5,51.48049949,-0.059552893,Roadside,kcl
+644,Southwark - Elephant and Castle,SK6,51.4931557,-0.101527038,Urban Background,kcl
+876,Southwark - Heygate,SK7,51.49298138,-0.098537891,Urban Background,kcl
+11,Southwark - Tower Bridge Road,SK8,51.50139067,-0.078203437,Roadside,kcl
+24,Southwark - A2 Old Kent Road FIDAS,SK9,51.48049949,-0.059552893,Roadside,kcl
+25,Southwark - Lower Road,SKA,51.49656042,-0.053050447,Roadside,kcl
+26,Southwark - Vicarage Grove,SKB,51.47358035,-0.087781854,Roadside,kcl
+7,Southwark - South Circular Road,SKC,51.442633,-0.077653974,Roadside,kcl
+93,Sutton - Robin Hood School,ST1,51.365744,-0.195563,Roadside,kcl
+245,Sutton - North Cheam,ST2,51.37718921,-0.222044077,Urban Background,kcl
+140,Sutton - Carshalton,ST3,51.365318,-0.165936,Suburban,kcl
+110,Sutton - Wallington,ST4,51.35865961,-0.149723947,Kerbside,kcl
+305,Sutton - Beddington Lane north,ST5,51.3892869,-0.141661525,Industrial,kcl
+347,Sutton - Worcester Park,ST6,51.377923,-0.240414,Kerbside,kcl
+943,Sutton - Therapia Lane,ST7,51.38583913,-0.136339857,Industrial,kcl
+501,Sutton - Beddington Lane ,ST8,51.38356523,-0.136417861,Industrial,kcl
+41,Sutton - Beddington Village,ST9,51.37120108,-0.131948825,Roadside,kcl
+607,Tower Hamlets 4 aethalometer,TH0,51.51504617,-0.008418493,Roadside,kcl
+112,Tower Hamlets - Poplar,TH1,51.510012,-0.019866,Urban Background,kcl
+113,Tower Hamlets - Mile End Road,TH2,51.52252949,-0.042155099,Roadside,kcl
+114,Tower Hamlets - Bethnal Green,TH3,51.526737,-0.053869,Urban Background,kcl
+832,Tower Hamlets - Blackwall,TH4,51.51504617,-0.008418493,Roadside,kcl
+885,Tower Hamlets - Victoria Park,TH5,51.54051949,-0.033307389,Urban Background,kcl
+979,Tower Hamlets - Millwall Park,TH6,51.48913426,-0.012976931,Urban Background,kcl
+944,Wandsworth - Garratt Lane,WA1,51.45487221,-0.193004,Roadside,kcl
+123,Wandsworth - Wandsworth Town Hall,WA2,51.456962,-0.191074,Urban Background,kcl
+821,Wandsworth - Roehampton,WA3,51.45692047,-0.24556249,Rural,kcl
+124,Wandsworth - High Street,WA4,51.4564354,-0.191157408,Roadside,kcl
+850,Wandsworth - Tooting,WA6,51.425284,-0.164452,Roadside,kcl
+464,Wandsworth - Putney High Street,WA7,51.463429,-0.215871,Kerbside,kcl
+914,Wandsworth - Putney High Street Facade,WA8,51.4637206,-0.215890144,Roadside,kcl
+910,Wandsworth - Putney,WA9,51.46503251,-0.215824581,Urban Background,kcl
+858,Wandsworth - Battersea,WAA,51.47943953,-0.141786954,Roadside,kcl
+931,Wandsworth - Tooting High Street,WAB,51.429331,-0.166524,Roadside,kcl
+992,Wandsworth - Lavender Hill (Clapham Jct),WAC,51.46369036,-0.166713486,Roadside,kcl
+298,Westminster Black Smoke (WESTMINSTER 17),WM2,51.49468163,-0.131587057,Urban Background,kcl
+681,Westminster - Hyde Park Partisol,WM3,51.51024664,-0.128140147,Roadside,kcl
+844,Westminster - Charing Cross Library,WM4,51.510205,-0.128177,Roadside,kcl
+194,Westminster - Covent Garden,WM5,51.51197698,-0.121627203,Urban Background,kcl
+909,Westminster - Oxford Street,WM6,51.51392874,-0.152792702,Kerbside,kcl
+938,Marylebone Rd Ion Chromatography,WM7,51.52250936,-0.154622155,Kerbside,kcl
+362,Westminster - Victoria,WM8,51.49706618,-0.142438821,Urban Background,kcl
+657,Westminster - Victoria (Victoria BID),WM9,51.49773318,-0.144241409,Roadside,kcl
+1039,Westminster - Buckingham Palace Road,WMA,51.49323279,-0.147391757,Roadside,kcl
+978,Westminster - Oxford Street East,WMB,51.516066,-0.13516388,Roadside,kcl
+541,Westminster - Cavendish Square,WMC,51.51680165,-0.145657269,Roadside,kcl
+70,Westminster - Elizabeth Bridge,WMD,51.49224823,-0.147114753,Roadside,kcl
+994,Westminster - Oxford Street 2,WMZ,51.51392874,-0.152792702,Kerbside,kcl
