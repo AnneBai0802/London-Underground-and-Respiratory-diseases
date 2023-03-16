@@ -50,7 +50,7 @@ The program contains a few Python files used to clean data and plot graphs. Belo
 
 ### NO2 and COVID-19
 
-For plotting the correlation between NO2 and mortality rate of COVID-19, four python files are used. The file `Clean_Data_Covid.py` is used to read te data from the two csv files, clean them so that only records in the year 2021 are considered, and calculate mortality rate of each borough in 2021. The file `Site_To_Code.py` is used to separated each of the site in the csv file containing NO2 pollution level into boroughs. The file `Clean_Data_NO2.py` is used to read data from the NO2 csv file and obtain average NO2 level of each borough. Finally, the file `Core.py` is used to study the correlation between the average NO2 level and the mortality rate of each borough.
+For plotting the correlation between NO2 and mortality rate of COVID-19, four python files are used. The file `Clean_Data_Covid.py` is used to read te data from the two csv files, clean them so that only records in the year 2021 are considered, and calculate mortality rate of each borough in 2021. The file `Site_To_COde.py` is used to separated each of the site in the csv file containing NO2 pollution level into boroughs. The file `Clean_Data_NO2.py` is used to read data from the NO2 csv file and obtain average NO2 level of each borough. Finally, the file `Core.py` is used to study the correlation between the average NO2 level and the mortality rate of each borough.
 
 
 
