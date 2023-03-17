@@ -61,7 +61,7 @@ For plotting the correlation between NO2 and mortality rate of COVID-19, four py
 
 
 <!-- DISCUSSION -->
-## Discussion
+## Adheesha: We did not get a positive correlation as expected, instead getting a negative one (albeit with a small correlation coefficient). Disregarding the possibility of an error in data analysis, there could be two possibilities for this. Either higher nitrogen dioxide levels are genuinely associated with lower COVID morality, or there are confounding factors at play. Given that COVID-19 mortality has been established to be multifactorial, the second option is certainly most likely. For instance, higher nitrogen dioxide levels may be found in more urbanised London boroughs, which also generally have better access to healthcare. Also, more urbanised boroughs have younger populations in general, and young people are less likely to die from COVID. The effect of these confounding factors seems to be more significant than that of nitrogen dioxide. The next logical step would be to perform a multivariate analysis, looking at the correlation coefficient between nitrogen dioxide and COVID mortality having accounted for factors such as age. If the correlation is different to that in the univariate analysis that we have conducted, confounding is indicated.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
