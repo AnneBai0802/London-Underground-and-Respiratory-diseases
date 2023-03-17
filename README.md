@@ -47,7 +47,13 @@ Use the `README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## SARS-CoV-2 2 is a virus affecting primarily the respiratory system that resulted in a global pandemic starting in December 2022. There have been upwards of 6.8 million deaths recorded as being due to the infection as of March 2022. ​
+In terms of pathophysiology, the virus binds to ACE2 on respiratory epithelial cells using its spike protein, entering the cell and using its genetic machinery to proliferate. ​
+Presentation can range from asymptomatic to severe pneumonia and lung failure. Most symptoms are respiratory in nature, such as coughing, and fever is also common. However, the virus also affects processes in  other components of the body, such as blood clotting times. ​
+The pandemic had a massive impact not only in terms of deaths caused directly on the virus, but also by delaying routine procedures for other illnesses. It also compromised key determinants of health, such as exercise and socialising, by limiting peoples' ability to leave their homes. ​
+Mortality from COVID varies based on multiple risk factors. Established ones include advanced age, higher BMI and existing respiratory illnesses. ​
+Given that existing respiratory dysfunction predisposes mortality from COVID, and pollutants such as nitrogen dioxide have been suspected of causing respiratory damage, we were interested in seeing the correlation between nitrous oxide levels and COVID mortality in different London boroughs. ​
+We predicted there would be a positive correlation, but also noted that there could be multiple confounding factors affecting the relationship.
 
 
 <!-- GETTING STARTED -->
