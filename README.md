@@ -61,13 +61,18 @@ We predicted there would be a positive correlation, but also noted that there co
 
 The program contains a few Python files used to clean data and plot graphs. Below are explanations to each file.
 
-### NO2 and COVID-19
+### NO2 and COVID-19 (Anne)
 
-For plotting the correlation between NO2 and mortality rate of COVID-19, four python files are used. The file `Clean_Data_Covid.py` is used to read te data from the two csv files, clean them so that only records in the year 2021 are considered, and calculate mortality rate of each borough in 2021. The file `Site_To_COde.py` is used to separated each of the site in the csv file containing NO2 pollution level into boroughs. The file `Clean_Data_NO2.py` is used to read data from the NO2 csv file and obtain average NO2 level of each borough. Finally, the file `Core.py` is used to study the correlation between the average NO2 level and the mortality rate of each borough.
+For plotting the correlation between NO2 and mortality rate of COVID-19, four python files are used. The file `Clean_Data_Covid.py` is used to read te data from the two csv files, clean them so that only records in the year 2021 are considered, and calculate mortality rate of each borough in 2021. The file `Site_To_COde.py` is used to separated each of the site in the csv file containing NO2 pollution level into boroughs. The file `Clean_Data_NO2.py` is used to read data from the NO2 csv file and obtain average NO2 level of each borough. Finally, the file `Core.py` is used to study the correlation between the average NO2 level and the mortality rate of each borough. The outcome is as shown in the figure
+<div align="center">
+  <a href="https://github.com/AnneBai0802/London-Underground-and-Respiratory-diseases">
+    <img src="Percentage Death 2021 against NO2 in 2015-2023.png" alt="Mortality Rate of COVID-19 against NO2" width="80" height="80">
+  </a>
 
 
 <!-- DISCUSSION -->
-## Adheesha: We did not get a positive correlation as expected, instead getting a negative one (albeit with a small correlation coefficient). Disregarding the possibility of an error in data analysis, there could be two possibilities for this. Either higher nitrogen dioxide levels are genuinely associated with lower COVID morality, or there are confounding factors at play. Given that COVID-19 mortality has been established to be multifactorial, the second option is certainly most likely. For instance, higher nitrogen dioxide levels may be found in more urbanised London boroughs, which also generally have better access to healthcare. Also, more urbanised boroughs have younger populations in general, and young people are less likely to die from COVID. The effect of these confounding factors seems to be more significant than that of nitrogen dioxide. The next logical step would be to perform a multivariate analysis, looking at the correlation coefficient between nitrogen dioxide and COVID mortality having accounted for factors such as age. If the correlation is different to that in the univariate analysis that we have conducted, confounding is indicated.
+## Discussion
+(Adheesha) We did not get a positive correlation as expected, instead getting a negative one (albeit with a small correlation coefficient). Disregarding the possibility of an error in data analysis, there could be two possibilities for this. Either higher nitrogen dioxide levels are genuinely associated with lower COVID morality, or there are confounding factors at play. Given that COVID-19 mortality has been established to be multifactorial, the second option is certainly most likely. For instance, higher nitrogen dioxide levels may be found in more urbanised London boroughs, which also generally have better access to healthcare. Also, more urbanised boroughs have younger populations in general, and young people are less likely to die from COVID. The effect of these confounding factors seems to be more significant than that of nitrogen dioxide. The next logical step would be to perform a multivariate analysis, looking at the correlation coefficient between nitrogen dioxide and COVID mortality having accounted for factors such as age. If the correlation is different to that in the univariate analysis that we have conducted, confounding is indicated.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
