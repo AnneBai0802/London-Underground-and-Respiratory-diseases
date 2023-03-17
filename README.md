@@ -69,11 +69,16 @@ For plotting the correlation between NO2 and mortality rate of COVID-19, four py
     <img src="Percentage Death 2021 against NO2 in 2015-2023.png" alt="Mortality Rate of COVID-19 against NO2" >
   </a>
  </div>
+This may or may not indicate that the two are independent of each other, since the correlation is not clear and obvious enough. This result does not agree with the study conducted by Wu in USA. This may be due to three reasons.
+Firstly, the boroughs are very close to each other, so residents travel between each area, so the exposure to air pollution cannot be solely determined by the NO2 in each borough. Secondly, new residents that have just moved to the borough possibly exist, who are not exposed to the air pollution in that borough for a long time. Thirdly, young people are more resistant towards COVID-19, and the proportion of young people differ for different boroughs, which may affect the outcome of mortality rate.
 
 
 <!-- DISCUSSION -->
 ## Discussion
 (Adheesha) We did not get a positive correlation as expected, instead getting a negative one (albeit with a small correlation coefficient). Disregarding the possibility of an error in data analysis, there could be two possibilities for this. Either higher nitrogen dioxide levels are genuinely associated with lower COVID morality, or there are confounding factors at play. Given that COVID-19 mortality has been established to be multifactorial, the second option is certainly most likely. For instance, higher nitrogen dioxide levels may be found in more urbanised London boroughs, which also generally have better access to healthcare. Also, more urbanised boroughs have younger populations in general, and young people are less likely to die from COVID. The effect of these confounding factors seems to be more significant than that of nitrogen dioxide. The next logical step would be to perform a multivariate analysis, looking at the correlation coefficient between nitrogen dioxide and COVID mortality having accounted for factors such as age. If the correlation is different to that in the univariate analysis that we have conducted, confounding is indicated.
+
+
+(Anne) From the results, I  found that clearly more variables are needed for considering mortality rate from COVID-19 for each borough. For example, the average age of residents in each borough, the proportion that have just moved to each borough, and proportion of people who travel between the boroughs.  It is too arbitrary to solely consider the air pollution level. For further studies, larger areas should be considered to calculate pollution and mortality rate, to decrease the degree to which people travelling between areas affect the mortality rate. In addition, variables such as age should be included and a multivariable correlation studied.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
