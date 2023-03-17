@@ -68,6 +68,7 @@ For plotting the correlation between NO2 and mortality rate of COVID-19, four py
   <a href="https://github.com/AnneBai0802/London-Underground-and-Respiratory-diseases">
     <img src="Percentage Death 2021 against NO2 in 2015-2023.png" alt="Mortality Rate of COVID-19 against NO2" >
   </a>
+ </div>
 
 
 <!-- DISCUSSION -->
