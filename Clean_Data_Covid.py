@@ -52,9 +52,6 @@ def clean_Covid():
         Cases_Boroughs=np.append(Cases_Boroughs,No_Case)
         Name_Boroughs=np.append(Name_Boroughs,Name)
     
-    #Calculate percentage death    
-    Percentage_Death_Boroughs=Death_Boroughs*1000/Cases_Boroughs
-    
     #return value
-    return Name_Boroughs,Percentage_Death_Boroughs
+    return [Name_Boroughs, Death_Boroughs, Cases_Boroughs]
 

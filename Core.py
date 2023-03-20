@@ -6,6 +6,7 @@ Created on Thu Feb 23 03:46:28 2023
 """
 def linear(X,m,c):
     return m*X+c
+
 import Clean_Data_Covid
 import Clean_Data_NO2
 import numpy as np
